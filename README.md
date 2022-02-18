@@ -1,6 +1,5 @@
 # Assignment #1 (A1)
 
----
 Name: Cooper Nasiedlak
 
 NETID: nasiedlak
