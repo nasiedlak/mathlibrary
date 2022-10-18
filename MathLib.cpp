@@ -1,8 +1,5 @@
 /**
  * @Author: Cooper Nasiedlak
- * @NETID: nasiedlak
- * @ID#: 9082213803
- * @Source(s): GeeksforGeeks.org, JournalDev.com, & StacKOverflow.com
  */
 
 #include "MathLib.h"
