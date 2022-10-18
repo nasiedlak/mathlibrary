@@ -1,6 +1,4 @@
 # Author: Cooper Nasiedlak
-# NETID: nasiedlak
-# ID#: 9082213803
 
 CXX = g++
 CXXFLAGS = -Wall
